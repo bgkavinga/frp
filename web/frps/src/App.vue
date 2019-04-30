@@ -2,7 +2,7 @@
     <div id="app">
         <header class="grid-content header-color">
             <el-row>
-                <a class="brand" href="#">frp</a>
+                <a class="brand" href="#">Outsmart Hub</a>
             </el-row>
         </header>
         <section>
@@ -18,7 +18,6 @@
                             <el-menu-item index="/proxies/https">HTTPS</el-menu-item>
                             <el-menu-item index="/proxies/stcp">STCP</el-menu-item>
                         </el-submenu>
-                        <el-menu-item index="">Help</el-menu-item>
                     </el-menu>
 				</el-col>
 
@@ -58,7 +57,7 @@
     }
     
     .header-color {
-        background: #58B7FF;
+        background: #132f47;
     }
     
     #content {
